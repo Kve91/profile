@@ -105,6 +105,24 @@ h1:hover {
 
 }
 
+#sidebar {
+
+  background:#06cc96;
+  width:10%;
+  position:fixed;
+  left:0;
+  top:0;
+  bottom:0;
+  line-height: 10:;
+}
+
+.sidebar-text {
+  color:#133C55;
+  text-decoration: overline;
+  letter-spacing: 3px;
+
+}
+
 
 
 
